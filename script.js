@@ -7,4 +7,5 @@ $(document).ready(function(){
     // insert the response
     $("#sentences").html(response);
   });
+  
 });
